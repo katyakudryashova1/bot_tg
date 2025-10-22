@@ -16,7 +16,7 @@
 
 После выбора количества пользователей:
 
-![image]()
+![image](https://raw.githubusercontent.com/katyakudryashova1/bot_tg/refs/heads/main/generate_bot.png)
 
 ## 💻 Технологии
 
