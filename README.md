@@ -12,11 +12,11 @@
 
 Стартовое меню:
 
-![image]
+![image](https://raw.githubusercontent.com/katyakudryashova1/bot_tg/refs/heads/main/menu_bot.png)
 
 После выбора количества пользователей:
 
-![image]
+![image]()
 
 ## 💻 Технологии
 
